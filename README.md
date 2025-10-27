@@ -38,12 +38,3 @@ It helps organizations track and manage their **servers, switches, PCs, chairs, 
 | Auth | JWT (FastAPI Users) |
 | Packaging | PyInstaller |
 | Optional tools | Alembic, pgAdmin |
-
----
-
-## ⚙️ Local Setup
-
-### 1️⃣ Clone this repo
-```bash
-git clone https://github.com/<your-username>/OmniAsset.git
-cd OmniAsset
